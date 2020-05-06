@@ -1,2 +1,2 @@
 # reactjs
-Aprendendo reactjs
+Aprendendo ReactJS
